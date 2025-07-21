@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>net.consensys.besu-plugin-library</groupId>
+  <artifactId>net.consensys.besu-plugin-library.gradle.plugin</artifactId>
+  <versioning>
+    <latest>0.1-SNAPSHOT</latest>
+    <versions>
+      <version>0.1-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20250721160249</lastUpdated>
+  </versioning>
+</metadata>
