@@ -1,0 +1,100 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "net.consensys.gradle.besu-plugin",
+    "module": "besu-plugin-gradle-plugin",
+    "version": "0.1.1",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.12"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 21,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "besu-plugin-gradle-plugin-0.1.1.jar",
+          "url": "besu-plugin-gradle-plugin-0.1.1.jar",
+          "size": 19542,
+          "sha512": "f4657aa861f635f087bd2c5262dee604ec13254f64a0d811877ee609908df1d368641bf44947bc7ea82fc11fa04d9c47917fbf29fbdba62f6617b4c965221276",
+          "sha256": "d05f5df62cc5598888e8356a6d2b9a16a2a96fe2a15c42ec77e094de4b613fb5",
+          "sha1": "347bd481f66dc9a568d848a00ddbb850543a1a82",
+          "md5": "62c0fbe973709efb60c2579296de3b3e"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 21,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "besu-plugin-gradle-plugin-0.1.1.jar",
+          "url": "besu-plugin-gradle-plugin-0.1.1.jar",
+          "size": 19542,
+          "sha512": "f4657aa861f635f087bd2c5262dee604ec13254f64a0d811877ee609908df1d368641bf44947bc7ea82fc11fa04d9c47917fbf29fbdba62f6617b4c965221276",
+          "sha256": "d05f5df62cc5598888e8356a6d2b9a16a2a96fe2a15c42ec77e094de4b613fb5",
+          "sha1": "347bd481f66dc9a568d848a00ddbb850543a1a82",
+          "md5": "62c0fbe973709efb60c2579296de3b3e"
+        }
+      ]
+    },
+    {
+      "name": "javadocElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "besu-plugin-gradle-plugin-0.1.1-javadoc.jar",
+          "url": "besu-plugin-gradle-plugin-0.1.1-javadoc.jar",
+          "size": 91917,
+          "sha512": "7510db6b0098128ec2b30b68ea13a50824cd187257eb781994237276bd7aecb1f321deb62a45c22213e925e5c3064d5032d4bf231b0f8dd697d5a250e2105e95",
+          "sha256": "772ae37549e4f1dd6feb368fc3a189c1f9a58dbf5ecd9fac3e5195a0b2ac3cab",
+          "sha1": "13de55730724db024985454ff2a00aabc842d87d",
+          "md5": "fb9ac08e5bfa1dfbd3ab8c185813b85c"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "besu-plugin-gradle-plugin-0.1.1-sources.jar",
+          "url": "besu-plugin-gradle-plugin-0.1.1-sources.jar",
+          "size": 8095,
+          "sha512": "e68ff6372359a0a0f138216a976b4b06f4ca05e4b2946f85b8998e818c682a37e68d6c962bb48fd2460c29ad9b1cb379b5d4593ad367029468c16a287612df74",
+          "sha256": "a2efee31d1d9295e010cd4e4d177d69e6ce18f0bbcdf5442572e39401b70876d",
+          "sha1": "7b88e394152e77ef8ee82fe5f1589f1b5b0b29df",
+          "md5": "7f5bb2d47ccd8b36d354151313b73cd7"
+        }
+      ]
+    }
+  ]
+}

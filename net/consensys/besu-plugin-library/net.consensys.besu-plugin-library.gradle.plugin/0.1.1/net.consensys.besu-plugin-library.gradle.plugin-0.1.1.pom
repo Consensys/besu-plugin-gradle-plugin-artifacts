@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>net.consensys.besu-plugin-library</groupId>
+  <artifactId>net.consensys.besu-plugin-library.gradle.plugin</artifactId>
+  <version>0.1.1</version>
+  <packaging>pom</packaging>
+  <dependencies>
+    <dependency>
+      <groupId>net.consensys.gradle.besu-plugin</groupId>
+      <artifactId>besu-plugin-gradle-plugin</artifactId>
+      <version>0.1.1</version>
+    </dependency>
+  </dependencies>
+</project>
